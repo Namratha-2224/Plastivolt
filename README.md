@@ -1,1 +1,1 @@
-# PlastiVolt
+# PlastiVolt - Smart Plastic Waste Management
